@@ -1,4 +1,4 @@
-# pandas_challenge #
+# Pandas_Challenge #
 
 ## PyCitySchools ##
 
